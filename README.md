@@ -2,6 +2,8 @@
 
 A real-time multiplayer tile drawing game implemented with WebSockets.
 
+![GridLock Screenshot](demo/gridlock_screenshot.png?raw=true "GridLock Screenshot")
+
 ## Running Locally
 
 ```bash
